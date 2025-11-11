@@ -73,5 +73,5 @@ Administradores possuem um **painel de controle** completo para gerenciar o cont
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/who.git
+   git clone https://github.com/gacussi/who.git
    cd who
